@@ -1,4 +1,4 @@
-### 🤓 Hola, mi nombre es Rubény soy un desarrollador noob🔥
+### 🔥 Hola, mi nombre es Rubén y soy un desarrollador noob 🔥
 
 ![This is an image](https://github.com/CodeNoo6/CodeNoo6/blob/4ae940baaec90b890beb9edfcd1be798429ca1f3/Programacio%CC%81n%20para%20noobs%20fa%CC%81cil%20de%20entender.png)
 
