@@ -1,5 +1,7 @@
 ### Hola mi nombre es Rubén 🔥
 
+![This is an image]((https://www.buymeacoffee.com/CodeNoob))
+
 Al igual que yo somos apasionados por aprender si puedes me gustaría que apoyaras el canal esto es para todos no solo para mí se ira mejorando la calidad de los videos con ello.
 
 Gracias y que soluciones muchos bugs.🤪
