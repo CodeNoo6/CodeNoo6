@@ -1,5 +1,7 @@
 ### Hola, mi nombre es Rubén 🔥
 
+![This is an image](https://github.com/CodeNoo6/CodeNoo6/blob/4ae940baaec90b890beb9edfcd1be798429ca1f3/Programacio%CC%81n%20para%20noobs%20fa%CC%81cil%20de%20entender.png)
+
 Soy estudiante de ingeniería en sistemas en el 2022 cree [Code Noob](https://www.youtube.com/@codenoo6) como una auto ayuda ya que como desarrolladores olvidamos en ocasiones lo que aprendemos en este mundo de la programación que es muy extenso y conlleva muchas horas de tiempo aprender por ello esto aparte de ser un canal para mi es una bitacora personal donde registro mis avances y lo aprendido para luego verlo si se llega a olvidar.
 
 Al igual que yo somos apasionados por aprender y esto es algo que debemos fortalezer de las experiencias e investigaciones realizadas por los demas desarrolladores.
