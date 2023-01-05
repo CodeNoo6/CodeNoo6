@@ -1,6 +1,6 @@
 ### Hola, mi nombre es Rubén 🔥
 
-Soy estudiante de ingeniería de sistemas en el 2022 cree [Code Noob](https://www.youtube.com/@codenoo6) como una auto ayuda ya que como desarrolladores olvidamos en ocasiones lo que aprendemos en este mundo de la programación que es muy extenso y conlleva muchas horas de tiempo aprender por ello esto aparte de ser un canal para mi es una bitacora personal donde registro mis avances y lo aprendido para luego verlo si se llega a olvidar.
+Soy estudiante de ingeniería en sistemas en el 2022 cree [Code Noob](https://www.youtube.com/@codenoo6) como una auto ayuda ya que como desarrolladores olvidamos en ocasiones lo que aprendemos en este mundo de la programación que es muy extenso y conlleva muchas horas de tiempo aprender por ello esto aparte de ser un canal para mi es una bitacora personal donde registro mis avances y lo aprendido para luego verlo si se llega a olvidar.
 
 Al igual que yo somos apasionados por aprender si puedes me gustaría que apoyaras el canal esto es para todos no solo para mí se ira mejorando la calidad de los videos con ello.
 
